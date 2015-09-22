@@ -1,3 +1,7 @@
 # hello-word
 repositorio para aprender github
-Este objetivo se ha fijado en el lbranch un readme mejorado. Pero alguien ha cambiado el readme orignal
+Esto es una explicación del proyecto que quiero hacer
+
+Se trata de ir a la luna montado en un burro: complicado, pero realizable.
+
+Empezamos por resolver el conflicto de ficheros que hemos creado.
